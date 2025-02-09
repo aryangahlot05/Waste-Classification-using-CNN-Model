@@ -2,12 +2,12 @@
 
 AICTE Virtual Internship - Cycle 3 - CNN Model to classify images of plastic waste into different categories
 
-#Dataset
+# Dataset
 The dataset used for this project is the Waste Classification Data by Sashaank Sekar. It contains a total of 25,077 labeled images, divided into two categories: Organic and Recyclable. This dataset is designed to facilitate waste classification tasks using machine learning techniques.
 
-##Dataset Link - https://www.kaggle.com/datasets/techsash/waste-classification-data/data
+## Dataset Link - https://www.kaggle.com/datasets/techsash/waste-classification-data/data
 
-##Description:
+## Description:
 -**Total Images**: 25,077
      -**Training Data**: 22,564 images (85%)
      -**Test Data**: 2,513 images (15%)
